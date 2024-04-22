@@ -1,5 +1,5 @@
 import TelegramBot from 'node-telegram-bot-api';
-const token = '6959093772:AAEs23-IlMQ-WK4ZCITlFj-d2JGTGWCYx5w';
+const token = 'INSIRA SEU TOKEM AQUI';
 import { PrismaClient } from './prisma/node_modules/@prisma/client'
 
 const prisma = new PrismaClient()
